@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Eggs\Eggs\obj\Debug\Eggs.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Eggs\Eggs\obj\Debug\Eggs.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Eggs\Eggs\obj\Debug\Eggs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Eggs\Eggs\bin\Debug\Eggs.exe.config
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Eggs\Eggs\bin\Debug\Eggs.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Eggs\Eggs\bin\Debug\Eggs.pdb
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Eggs\Eggs\obj\Debug\Eggs.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Eggs\Eggs\obj\Debug\Eggs.pdb
